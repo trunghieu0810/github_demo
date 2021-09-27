@@ -12,5 +12,6 @@ public class gcd {
             String line = scanner.nextLine();
             System.out.println(line);
         }
+        System.out.println("haha");
     }
 }
